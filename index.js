@@ -1,11 +1,11 @@
 function add(a,b) {
   sum = a + b 
-  return sum()
+  return sum
 }
 
 function subtract(a,b) {
   difference = a - b
-  return difference()
+  return difference
 }
 
 function multiply(a,b) {
