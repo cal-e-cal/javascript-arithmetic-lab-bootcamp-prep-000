@@ -20,3 +20,4 @@ console.log(number)
 divideBy3
 console.log(number)
 
+parseInt(53535.2352,10)
