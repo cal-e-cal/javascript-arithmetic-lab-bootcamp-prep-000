@@ -20,5 +20,5 @@ console.log(number)
 divideBy3()
 console.log(number)
 
-parsed = parseInt('gnarly',10)
+parsed = parseFloat('gnarly',10)
 console.log(parsed)
