@@ -12,3 +12,7 @@ function multiply(a,b) {
   product = a * b
   return product
 }
+
+function divide(a,b) {
+  
+}
