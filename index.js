@@ -1,24 +1,15 @@
-var number = 10
-function add5 () {
-  number += 5
+function add(a,b) {
+  sum = a + b 
+  return sum()
 }
 
-function divideBy3() {
-  number /= 3
+function subtract(a,b) {
+  difference = a - b
+  return difference()
 }
 
-divideBy3()
+function multiply(a,b) {
+  product = a * b
 
-console.log(number)
-add5()
-console.log(number)
-
-number = 10
-
-add5()
-console.log(number)
-divideBy3()
-console.log(number)
-
-parsed = parseFloat('8388.2381',10)
-console.log(parsed)
+  
+}
