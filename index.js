@@ -17,7 +17,7 @@ number = 10
 
 add5()
 console.log(number)
-divideBy3
+divideBy3()
 console.log(number)
 
 parseInt(53535.2352,10)
